@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>pet-clinic-remake</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>pet-clinic-remake</name>
 	<description>Demo project for Spring Boot</description>
@@ -49,6 +49,6 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:nlugo22/pet-clinic-remake.git</developerConnection>
-	  <tag>pet-clinic-remake-0.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 </project>
