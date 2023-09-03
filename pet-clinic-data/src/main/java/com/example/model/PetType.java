@@ -1,4 +1,4 @@
-package com.example.petclinictest.model;
+package com.example.model;
 
 public class PetType {
 
